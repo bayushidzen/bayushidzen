@@ -1,6 +1,10 @@
 ## <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Eugene</a> 👋
 
 - 🌱 I’m currently learning C# OOP && Unity projects
+
+Немного статистики
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **bayushidzen/bayushidzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
