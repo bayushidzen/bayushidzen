@@ -1,5 +1,6 @@
-## Hi there 👋
+## <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Eugene</a> 👋
 
+- 🌱 I’m currently learning C# OOP && Unity projects
 <!--
 **bayushidzen/bayushidzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
